@@ -1,4 +1,5 @@
 simpleVideoDownloader 
 
-in dist folder click .exe 
-to end the local server close the cmd window
+Click exe to start local server
+Paste link and click download
+close cmd to end service
